@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\bin\Debug\DbConsultorio.mdf
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\bin\Debug\DbConsultorio_log.ldf
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\bin\Debug\WS.exe.config
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\bin\Debug\WS.exe
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\bin\Debug\WS.pdb
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.FrmCadastrarPaciente.resources
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.FrmCadastrarRemedio.resources
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.FrmDias.resources
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.FrmPrincipal.resources
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.Properties.Resources.resources
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.exe
+C:\Users\User\OneDrive\Área de Trabalho\te\WS\obj\Debug\WS.pdb

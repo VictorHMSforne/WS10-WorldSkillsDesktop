@@ -14,7 +14,7 @@ namespace WS
         public string Nome { get; set; }
         public int Quarto { get; set; }
 
-        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Aluno\Desktop\ws\WS\WS\DbConsultorio.mdf;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\User\OneDrive\Área de Trabalho\te\WS\DbConsultorio.mdf"";Integrated Security=True");
 
         // Método de Listagem dos pacientes
         public List<Paciente> listarPacientes()
